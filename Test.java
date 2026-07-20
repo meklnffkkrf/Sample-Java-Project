@@ -4,7 +4,8 @@ public class Test {
     {
         int a=10;
         int b=200;
-        int res=a+b;
+        int c=30;
+        int res=a+b+c;
         System.out.println("The result is " +res);
         System.out.println("Welcome to Jenkins");
     }
